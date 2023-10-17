@@ -1,6 +1,6 @@
 # Prior Knowledge Learning of Deep Unrolled Network for Hyperspectral and Multispectral Image Fusion
 This is a super-resolution algorithm that adresses the problem of insufficient prior learning in recent deep urolled network.  
-***The paper has been submitted to a journal***  
+***The paper is being written***  
 # Flowchart
 **None**
 # Result presentation
