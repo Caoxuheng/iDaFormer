@@ -1,6 +1,6 @@
 # iDaFormer: Invariable Domain Aware Deep Unfolding Transformer for Hyperspectral and Multispectral Image Fusion
 This is a super-resolution algorithm that adresses the problem of insufficient prior learning in recent deep urolled network.  
-Experimental results on two public datasets and Worldview-2 Satellite images demonstrate that the proposed method outperforms six recent state-of-the-art (SOTA) methods
+Experimental results on two public datasets and Worldview-2 Satellite images demonstrate that the proposed method outperforms six recent state-of-the-art (SOTA) methods  
 ***The paper is being written***  
 # Flowchart
 **None**
