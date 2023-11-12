@@ -1,4 +1,4 @@
-# Prior Knowledge Learning of Deep Unrolled Network for Hyperspectral and Multispectral Image Fusion
+# iDaFormer: Invariable Domain Aware Deep Unfolding Transformer for Hyperspectral and Multispectral Image Fusion
 This is a super-resolution algorithm that adresses the problem of insufficient prior learning in recent deep urolled network.  
 ***The paper is being written***  
 # Flowchart
